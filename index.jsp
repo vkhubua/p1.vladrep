@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<% String Hola="Hello World!"; %>
+	<% String Holaaaaaaaaaaaaaaaaaaaa="Hello World!"; %>
 	<h1><%= Hola %></h1>
 	<a href="login.jsp">Login</a>
 </body>
